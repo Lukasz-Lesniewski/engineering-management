@@ -8,4 +8,3 @@ For the [[Energy]] and [[Motivation]], the following strategies could be used:
 * If you are not utterly yourself at the time you are at your work, you are doing "[[emotional labor]]" - an extra effort to keep up to the professional game face that is not concordant with how you feel.
 * When people habitually evoke the [[stress]] of [[surface acting]], they'll be more prone to depression and [[anxiety]], decreased job performance and [[burnout]].
 * When you feel that all work you are doing is something you have to do, and not want to do, it is  easy to fall into "Time to make the donuts" mentality of working without caring about it.
-* 
