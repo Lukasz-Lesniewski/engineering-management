@@ -1,0 +1,13 @@
+[[Steve Jobs]]
+- What was the Steve jobs advice on how to do more things?
+	- [[Focus]]
+- What was the Steve Jobs advice when staying behind?
+	- [[Leapfrog]]
+- What is the Steve Jobs stance about products vs profits?
+	- Put [[Products]] before [[Profits]]
+- What was the Steve Jobs advice on working with [[Complicated]] [[Processes]]?
+	- [[Simplify]] ([[KISS]])
+- What was the Steve Jobs advice on [[Quality]] vs [[Speed]]?
+	- Push for [[Perfection]]
+- What was the Steve jobs advice on [[Employee]]s [[Quality]]?
+	- Tolerate only "[[A Players]]"
