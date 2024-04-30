@@ -49,3 +49,21 @@ As those are internal and it is not always easy to become interested/passionate 
 * How often you blink is a brain decision on how much information is going to nervous system and what size.
 * ADHD drugs with Caffeine will have cardiovascular effects of having elevated heart rate, constricted veins. ADHD drugs can have also sex side effects of increased stimuli but decreased performance.
 * There are technologies that are making it harder to focus regarding of having or not ADHD. Smartphone with fast context-switching is a problem with small perspective and lots of visual motion and things that are happening. This can induce similar to ADHD or ADHD and inattention in users. Smartphones shouldn't be used for longer than 15 minutes per day to limit their negative effect.
+
+### Positive sides of ADHD to be explored
+* Ability for **hyperfocus** for long periods of time similar to the **flow** state, but without getting exhausted and distracted from hours to days.
+* Creating **unique** and **creative** **perspectives** of virtually anything around them that allows tackling problems on which others had stuck and producing solutions others haven't seen.
+* Generating lots of ideas on the topic in short time frame if allowed to do that outside brainstorming meetings.
+* Generally being calm under pressure.
+
+### Negative sides of ADHD to be managed outside of the employee by the manager itself
+* Importance or rewards are bad motivators or de-motivators.
+* Performing mundane tasks can lead to careless mistakes or overlooking details.
+* Failing following instructions to the letter.
+* Issues with self-organisation and organisation.
+* Missing deadlines due to the broken time-perception that has to be externalised to physical tools.
+* Self auto-inducing more anxiety and stress over neurotypical people by being more driven emotionally by subconscious mind.
+* Tendency to leave unfinished projects.
+* Hyperactivity that can lead to pacing, requiring setting up regular tempo by doing more physical exercises - especially more aerobic ones like even walking.
+* Insomnia.
+* 
