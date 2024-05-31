@@ -57,7 +57,7 @@ As those are internal and it is not always easy to become interested/passionate 
 * Generally being calm under pressure.
 
 ### Negative sides of ADHD to be managed outside of the employee by the manager itself
-* Importance or rewards are bad motivators or de-motivators.
+* Importance or delayed rewards are bad motivators or de-motivators.
 * Performing mundane tasks can lead to careless mistakes or overlooking details.
 * Failing following instructions to the letter.
 * Issues with self-organisation and organisation.
@@ -66,4 +66,10 @@ As those are internal and it is not always easy to become interested/passionate 
 * Tendency to leave unfinished projects.
 * Hyperactivity that can lead to pacing, requiring setting up regular tempo by doing more physical exercises - especially more aerobic ones like even walking.
 * Insomnia.
-* 
+
+### How to help ADHD engineers to manage their productivity
+
+#### Task intensity meter
+For neurotypical people task has some intensity meter to be done - and it is quite similar for them. Taking out the trash can be a low intensity. Cleaning the desk can be a medium intensity. Cleaning the whole house can be a high intensity.
+
+For the ADHD people, intensity of such task can be totally different, due to their emotional attachment and reactions. Thus it is a good idea to help figuring out engineers what is the intensity of their daily tasks to understand better what they're capable of doing. Some of the things they will make thus slower then others, but also other they will do much faster and better. What is a high intensity for neurotypical person can be a low intensity task for ADHD person that can be done continuously whole day.
